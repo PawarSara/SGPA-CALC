@@ -1,6 +1,6 @@
 # 🎓 SGPA/CGPA Calculator (Java + JSP)
 
-A web-based academic calculator built using **JSP (Java Server Pages)** to compute **SGPA (Semester Grade Point Average)** and **CGPA (Cumulative Grade Point Average)**. Includes interactive **bar charts** for grade visualization, dynamic forms, and responsive design – perfect for students and educational institutions.
+A web-based academic calculator built using **JSP (Java Server Pages)** to compute **SGPA (Semester Grade Point Average)** and **CGPA (Cumulative Grade Point Average)**. Includes interactive **bar charts** for grade visualization, dynamic forms, and responsive design – perfect for students and educational institutions..
 
 ---
 
